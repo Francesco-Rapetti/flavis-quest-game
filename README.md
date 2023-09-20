@@ -6,6 +6,7 @@ A simple rpg/puzzle-game made with Unity for fun as a birthday present.
 ## WARNINGS
 - Currently available for Android only
 - Currently available in italian only
+- Folding phones aspect ratio not currently supported
 
 ## How to run
 - If you want to try the game:
