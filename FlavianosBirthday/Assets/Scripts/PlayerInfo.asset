@@ -22,7 +22,7 @@ MonoBehaviour:
   talkedToWatts4: 0
   enigmaSolved: 0
   HintTapeActive: 0
-  orator: StaticBoy
+  orator: Naru
   talkedToNaru1: 0
   talkedToNaru2: 0
   talkedToKu1: 0

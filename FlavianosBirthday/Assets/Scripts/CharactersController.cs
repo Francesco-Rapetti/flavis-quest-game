@@ -37,29 +37,5 @@ public class CharactersController : MonoBehaviour
             if (!(playerInfo.dogFound)) dog.SetActive(true);
             ku.SetActive(true);
         }
-        
-
-        
-
-        /*if (playerInfo.talkedToNaru1 && !(playerInfo.chocoboFound && playerInfo.dogFound && playerInfo.isabelFound && playerInfo.strayFound))
-        {
-            chocobo.SetActive(true);
-            isabel.SetActive(true);
-            stray.SetActive(true);
-            dog.SetActive(true);
-            ku.SetActive(true);
-        }
-        else
-        {
-            chocobo.SetActive(false);
-            isabel.SetActive(false);
-            stray.SetActive(false);
-            dog.SetActive(false);
-            ku.SetActive(false);
-        }*/
     }
-
-   
-
-
 }

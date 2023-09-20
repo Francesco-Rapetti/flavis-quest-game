@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,6 +19,7 @@ public class GuessGamePanel : MonoBehaviour
     [SerializeField] GameObject dogPortal;
 
     string output;
+    bool control = false;
 
     
 
@@ -29,7 +31,19 @@ public class GuessGamePanel : MonoBehaviour
         Debug.Log(output);
         Debug.Log(StringManager(output));
 
+        /* Isabel Doom Eternal option */
+        if (character == "isabel" && StringManager(output) == "doom eternal")
+        {
+            control = true;
+        }
+
+        /* if player guess */
         if (StringManager(output) == StringManager(gameToGuess))
+        {
+            control = true;
+        }
+
+        if (control)
         {
             switch (character)
             {
@@ -50,6 +64,7 @@ public class GuessGamePanel : MonoBehaviour
                     strayPortal.SetActive(true);
                     break;
             }
+            control = false;
             this.gameObject.SetActive(false);
         }
         else
