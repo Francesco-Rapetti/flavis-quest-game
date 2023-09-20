@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 553a5266405291444b75b2082a581aae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4901834746507234649
+    second: vISUAL sTUDIO wATERMARK_0
+  - first:
+      213: 1566284649403816953
+    second: vISUAL sTUDIO wATERMARK_1
+  - first:
+      213: 3154927943687218249
+    second: vISUAL sTUDIO wATERMARK_2
+  - first:
+      213: -5633808161660324194
+    second: vISUAL sTUDIO wATERMARK_3
+  - first:
+      213: 6076204628272488183
+    second: vISUAL sTUDIO wATERMARK_4
+  - first:
+      213: -5587661442236352517
+    second: vISUAL sTUDIO wATERMARK_5
+  - first:
+      213: 5878663402247748873
+    second: vISUAL sTUDIO wATERMARK_6
+  - first:
+      213: -1712517116852933181
+    second: vISUAL sTUDIO wATERMARK_7
+  - first:
+      213: 7146879547148656230
+    second: vISUAL sTUDIO wATERMARK_8
+  - first:
+      213: -3130426336343316525
+    second: vISUAL sTUDIO wATERMARK_9
+  - first:
+      213: -2365590111631354960
+    second: vISUAL sTUDIO wATERMARK_10
+  - first:
+      213: -3064273058975431674
+    second: vISUAL sTUDIO wATERMARK_11
+  - first:
+      213: -2842486215878852046
+    second: vISUAL sTUDIO wATERMARK_12
+  - first:
+      213: 5755964948533538960
+    second: vISUAL sTUDIO wATERMARK_13
+  - first:
+      213: 4529806971692688340
+    second: vISUAL sTUDIO wATERMARK_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 463
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d0b3d1bb0d60440800000000000000
+      internalID: 4901834746507234649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9cd0179f8cb510800000000000000
+      internalID: 1566284649403816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442e6fcf3e88cb20800000000000000
+      internalID: 3154927943687218249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 242
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963a8f7351b0d1b0800000000000000
+      internalID: -5633808161660324194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 240
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe14c29ae3035450800000000000000
+      internalID: 6076204628272488183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 240
+        width: 68
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7fa52e583a472b0800000000000000
+      internalID: -5587661442236352517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 240
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90df015c735359150800000000000000
+      internalID: 5878663402247748873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 379
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd643a61caeb38e0800000000000000
+      internalID: -1712517116852933181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 242
+        width: 20
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66edc441511de2360800000000000000
+      internalID: 7146879547148656230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 240
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7aab235dd7e84d0800000000000000
+      internalID: -3130426336343316525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b35900b35cbb2fd0800000000000000
+      internalID: -2365590111631354960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60448f853e38975d0800000000000000
+      internalID: -3064273058975431674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 240
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c897c8d57d88d0800000000000000
+      internalID: -2842486215878852046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 242
+        width: 20
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f0f0df9b41ef40800000000000000
+      internalID: 5755964948533538960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vISUAL sTUDIO wATERMARK_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 240
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a4d8d07b1dde30800000000000000
+      internalID: 4529806971692688340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vISUAL sTUDIO wATERMARK_0: 4901834746507234649
+      vISUAL sTUDIO wATERMARK_1: 1566284649403816953
+      vISUAL sTUDIO wATERMARK_10: -2365590111631354960
+      vISUAL sTUDIO wATERMARK_11: -3064273058975431674
+      vISUAL sTUDIO wATERMARK_12: -2842486215878852046
+      vISUAL sTUDIO wATERMARK_13: 5755964948533538960
+      vISUAL sTUDIO wATERMARK_14: 4529806971692688340
+      vISUAL sTUDIO wATERMARK_2: 3154927943687218249
+      vISUAL sTUDIO wATERMARK_3: -5633808161660324194
+      vISUAL sTUDIO wATERMARK_4: 6076204628272488183
+      vISUAL sTUDIO wATERMARK_5: -5587661442236352517
+      vISUAL sTUDIO wATERMARK_6: 5878663402247748873
+      vISUAL sTUDIO wATERMARK_7: -1712517116852933181
+      vISUAL sTUDIO wATERMARK_8: 7146879547148656230
+      vISUAL sTUDIO wATERMARK_9: -3130426336343316525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

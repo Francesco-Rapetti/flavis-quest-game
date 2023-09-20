@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - JoystickArea
+  - Cake
+  - Key
+  - DoorToTheMoonTrigger
+  - DoorToTheMoonTriggerOff
+  - DoorGoingUnderTrigger
+  - DoorGoingUnderTriggerOff
+  - DoorOriTrigger
+  - DoorOriTriggerOff
+  - DoorBeforeYourEyesTrigger
+  - DoorBeforeYourEyesTriggerOff
+  - DoorMyFriendPedroTrigger
+  - DoorMyFriendPedroTriggerOff
+  - DoorCultOfTheLambTrigger
+  - DoorCultOfTheLambTriggerOff
+  - SolidTile
+  - DrWattsTalkTrigger
+  - DrWattsTalkTriggerOff
+  - FindingParadiseCover
+  - StaticBoyTalkTrigger
+  - StaticBoyTalkTriggerOff
+  - HintTapeTrigger
+  - HintTapeTriggerOff
+  - NaruTalkTrigger
+  - NaruTalkTriggerOff
+  - KuTalkTrigger
+  - KuTalkTriggerOff
+  - ChocoboInteractTrigger
+  - ChocoboInteractTriggerOff
+  - IsabelInteractTrigger
+  - IsabelInteractTriggerOff
+  - DogInteractTrigger
+  - DogInteractTriggerOff
+  - StrayInteractTrigger
+  - StrayInteractTriggerOff
+  - OriCover
+  - MirrorInteractTrigger
+  - MirrorInteractTriggerOff
+  - StatistikoInteractTrigger
+  - StatistikoInteractTriggerOff
+  - GoingUnderCover
+  - Bullet
+  - LeverPullTrigger
+  - LeverPullTriggerOff
+  - PedroTalkTrigger
+  - PedroTalkTriggerOff
+  - PascalTalkTrigger
+  - PascalTalkTriggerOff
+  - MyFriendPedroCover
+  - EasterEggTrigger
+  - EasterEggTriggerOff
+  - BeforeYourEyesCover
+  - EyeTrigger
+  - JarInteractTrigger
+  - JarInteractTriggerOff
+  - WerewolfTalkTrigger
+  - WerewolfTalkTriggerOff
+  - CultOfTheLambCover
+  - EdmundTalkTrigger
+  - EdmundTalkTriggerOff
+  - GunInteractTrigger
+  - GunInteractTriggerOff
+  - HardDiskInteractTrigger
+  - HardDiskInteractTriggerOff
+  - BranchInteractTrigger
+  - BranchInteractTriggerOff
+  - EyeballInteractTrigger
+  - EyeballInteractTriggerOff
+  - PlatypusInteractTrigger
+  - PlatypusInteractTriggerOff
+  - GunPlaceTrigger
+  - GunPlaceTriggerOff
+  - HardDiskPlaceTrigger
+  - HardDiskPlaceTriggerOff
+  - BranchPlaceTrigger
+  - BranchPlaceTriggerOff
+  - EyeballPlaceTrigger
+  - EyeballPlaceTriggerOff
+  - PlatypusPlaceTrigger
+  - PlatypusPlaceTriggerOff
+  - DoorTrigger
+  - DoorTriggerOff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SolidObjects
+  - Water
+  - UI
+  - Credits
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackBackground
+    uniqueID: 837933393
+    locked: 0
+  - name: Background
+    uniqueID: 3975352035
+    locked: 0
+  - name: Foreground
+    uniqueID: 4026211017
+    locked: 0
+  - name: Object
+    uniqueID: 3197760747
+    locked: 0
+  - name: Player
+    uniqueID: 739331809
+    locked: 0
+  - name: SolidObstacles
+    uniqueID: 3711269603
+    locked: 0
+  - name: HUD
+    uniqueID: 612854921
+    locked: 0
+  - name: UI
+    uniqueID: 3614843005
+    locked: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bf57e17c267cd345ac9118a9e4bc878, type: 3}
+  m_Name: PlayerInfo
+  m_EditorClassIdentifier: 
+  speed: 2.5
+  doorsOpened: 0
+  currentScene: MainRoom
+  playerPosition: {x: 0, y: 1.4, z: 0}
+  talkedToWatts1: 0
+  talkedToWatts2: 0
+  talkedToWatts3: 0
+  talkedToWatts4: 0
+  enigmaSolved: 0
+  HintTapeActive: 0
+  orator: StaticBoy
+  talkedToNaru1: 0
+  talkedToNaru2: 0
+  talkedToKu1: 0
+  chocoboFound: 0
+  isabelFound: 0
+  dogFound: 0
+  strayFound: 0
+  talkedToStatistiko1: 0
+  statisticFinished: 0
+  bulletsStopped: 0
+  leverPulled: 0
+  mazeFinished: 0
+  hasGun: 0
+  hasHardDisk: 0
+  hasBranch: 0
+  hasEyeball: 0
+  hasPlatypus: 0
+  placedGun: 0
+  placedHardDisk: 0
+  placedBranch: 0
+  placedEyeball: 0
+  placedPlatypus: 0
+  sacrificedDone: 0
+  isTalking: 0

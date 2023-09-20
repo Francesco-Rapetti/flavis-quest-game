@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 646e41a0ac7a83745a953f3e3ae9e700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2050562763232986468
+    second: FinalDuckPlayer_0
+  - first:
+      213: -5638437433042390207
+    second: FinalDuckPlayer_1
+  - first:
+      213: -1026408473799667648
+    second: FinalDuckPlayer_2
+  - first:
+      213: 6197825388655275163
+    second: FinalDuckPlayer_3
+  - first:
+      213: -3002486615694083761
+    second: FinalDuckPlayer_4
+  - first:
+      213: -8796706485160807261
+    second: FinalDuckPlayer_5
+  - first:
+      213: -1798682003595037561
+    second: FinalDuckPlayer_6
+  - first:
+      213: -867499617584315229
+    second: FinalDuckPlayer_7
+  - first:
+      213: 3110967368638236874
+    second: FinalDuckPlayer_8
+  - first:
+      213: 4300858539816845362
+    second: FinalDuckPlayer_9
+  - first:
+      213: -7458914472799532292
+    second: FinalDuckPlayer_10
+  - first:
+      213: -7847304434479419758
+    second: FinalDuckPlayer_11
+  - first:
+      213: -1108715157188353929
+    second: FinalDuckPlayer_12
+  - first:
+      213: 7216041962476798796
+    second: FinalDuckPlayer_13
+  - first:
+      213: -2869292351230408724
+    second: FinalDuckPlayer_14
+  - first:
+      213: -7340241030191262189
+    second: FinalDuckPlayer_15
+  - first:
+      213: -8808376894041885489
+    second: FinalDuckPlayer_16
+  - first:
+      213: 2433603059868290677
+    second: FinalDuckPlayer_17
+  - first:
+      213: -1382330238986749124
+    second: FinalDuckPlayer_18
+  - first:
+      213: -6785537595978009507
+    second: FinalDuckPlayer_19
+  - first:
+      213: -7873539466410971446
+    second: FinalDuckPlayer_20
+  - first:
+      213: -5274285299876575938
+    second: FinalDuckPlayer_21
+  - first:
+      213: 5971773487153388689
+    second: FinalDuckPlayer_22
+  - first:
+      213: -8141276614556487490
+    second: FinalDuckPlayer_23
+  - first:
+      213: -4861876012023810214
+    second: FinalDuckPlayer_24
+  - first:
+      213: 4237757403113657812
+    second: FinalDuckPlayer_25
+  - first:
+      213: -3573689857334337010
+    second: FinalDuckPlayer_26
+  - first:
+      213: 4394300016252491478
+    second: FinalDuckPlayer_27
+  - first:
+      213: -1542042084669503993
+    second: FinalDuckPlayer_28
+  - first:
+      213: 255892822701334197
+    second: FinalDuckPlayer_29
+  - first:
+      213: -8112480163183770576
+    second: FinalDuckPlayer_30
+  - first:
+      213: -4950610580440020745
+    second: FinalDuckPlayer_31
+  - first:
+      213: 6684082012411591463
+    second: FinalDuckPlayer_32
+  - first:
+      213: 5286629608153645811
+    second: FinalDuckPlayer_33
+  - first:
+      213: 4423620497681638087
+    second: FinalDuckPlayer_34
+  - first:
+      213: -5079200980622313654
+    second: FinalDuckPlayer_35
+  - first:
+      213: -2245366061017047789
+    second: FinalDuckPlayer_36
+  - first:
+      213: -1207097949658667951
+    second: FinalDuckPlayer_37
+  - first:
+      213: -4086838831980094757
+    second: FinalDuckPlayer_38
+  - first:
+      213: -272769231695859836
+    second: FinalDuckPlayer_39
+  - first:
+      213: -7456696187915912153
+    second: FinalDuckPlayer_40
+  - first:
+      213: 4505107950009167857
+    second: FinalDuckPlayer_41
+  - first:
+      213: 3731790754826952913
+    second: FinalDuckPlayer_42
+  - first:
+      213: 8524507721124997410
+    second: FinalDuckPlayer_43
+  - first:
+      213: 5878535045206341098
+    second: FinalDuckPlayer_44
+  - first:
+      213: 8197463740015316708
+    second: FinalDuckPlayer_45
+  - first:
+      213: 1368996699890025493
+    second: FinalDuckPlayer_46
+  - first:
+      213: 6348439324679876500
+    second: FinalDuckPlayer_47
+  - first:
+      213: -2437729006116632800
+    second: FinalDuckPlayer_48
+  - first:
+      213: -8610996287098448783
+    second: FinalDuckPlayer_49
+  - first:
+      213: -8328385937866624944
+    second: FinalDuckPlayer_50
+  - first:
+      213: 8918200869704513117
+    second: FinalDuckPlayer_51
+  - first:
+      213: 8126604111694657399
+    second: FinalDuckPlayer_52
+  - first:
+      213: 4808015523952303604
+    second: FinalDuckPlayer_53
+  - first:
+      213: 5015638804866945519
+    second: FinalDuckPlayer_54
+  - first:
+      213: 6593266260159019804
+    second: FinalDuckPlayer_55
+  - first:
+      213: -389430776542137244
+    second: FinalDuckPlayer_56
+  - first:
+      213: -5894689461485521577
+    second: FinalDuckPlayer_57
+  - first:
+      213: 2351508789679978423
+    second: FinalDuckPlayer_58
+  - first:
+      213: -1871144463076585407
+    second: FinalDuckPlayer_59
+  - first:
+      213: 2348930470474689320
+    second: FinalDuckPlayer_60
+  - first:
+      213: 5530794200796303128
+    second: FinalDuckPlayer_61
+  - first:
+      213: -5153607487006808052
+    second: FinalDuckPlayer_62
+  - first:
+      213: 7942908751716029498
+    second: FinalDuckPlayer_63
+  - first:
+      213: -4861380952187586761
+    second: FinalDuckPlayer_64
+  - first:
+      213: 7144108199354227802
+    second: FinalDuckPlayer_65
+  - first:
+      213: 174605435604128310
+    second: FinalDuckPlayer_66
+  - first:
+      213: -6748336668427898686
+    second: FinalDuckPlayer_67
+  - first:
+      213: -344087900310049651
+    second: FinalDuckPlayer_68
+  - first:
+      213: -3588333531851788754
+    second: FinalDuckPlayer_69
+  - first:
+      213: -6900959349353077556
+    second: FinalDuckPlayer_70
+  - first:
+      213: -3870257265542593071
+    second: FinalDuckPlayer_71
+  - first:
+      213: 975650582869777091
+    second: FinalDuckPlayer_72
+  - first:
+      213: -7870201003557475916
+    second: FinalDuckPlayer_73
+  - first:
+      213: 2682280154172578524
+    second: FinalDuckPlayer_74
+  - first:
+      213: 6345925572202272918
+    second: FinalDuckPlayer_75
+  - first:
+      213: -2202307188128024241
+    second: FinalDuckPlayer_76
+  - first:
+      213: 8662243307626903478
+    second: FinalDuckPlayer_77
+  - first:
+      213: -5913086938906527050
+    second: FinalDuckPlayer_78
+  - first:
+      213: 2401636883690160505
+    second: FinalDuckPlayer_79
+  - first:
+      213: 5321359304075423564
+    second: FinalDuckPlayer_80
+  - first:
+      213: 4816194287929799567
+    second: FinalDuckPlayer_81
+  - first:
+      213: -2974598041387230492
+    second: FinalDuckPlayer_82
+  - first:
+      213: -2453847941047732073
+    second: FinalDuckPlayer_83
+  - first:
+      213: -68211607969504133
+    second: FinalDuckPlayer_84
+  - first:
+      213: 8799201461382788134
+    second: FinalDuckPlayer_85
+  - first:
+      213: 9187859667815452779
+    second: FinalDuckPlayer_86
+  - first:
+      213: 3583460832305456
+    second: FinalDuckPlayer_87
+  - first:
+      213: -3013675663556810840
+    second: FinalDuckPlayer_88
+  - first:
+      213: -5890432238151602735
+    second: FinalDuckPlayer_89
+  - first:
+      213: -1880721334828206227
+    second: FinalDuckPlayer_90
+  - first:
+      213: -8486245328816859126
+    second: FinalDuckPlayer_91
+  - first:
+      213: 1212859096673318299
+    second: FinalDuckPlayer_92
+  - first:
+      213: -2387729281026036909
+    second: FinalDuckPlayer_93
+  - first:
+      213: 5431049238845742778
+    second: FinalDuckPlayer_94
+  - first:
+      213: 4639825762251561906
+    second: FinalDuckPlayer_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalDuckPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ce1be7a59130650800000000000000
+      internalID: 6197825388655275163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 336
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4970b4b4560556d0800000000000000
+      internalID: -3002486615694083761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 335
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47d960f02dbe580800000000000000
+      internalID: -8796706485160807261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 287
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d3bd5ca9322a90800000000000000
+      internalID: -7340241030191262189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ffd632eb52c580800000000000000
+      internalID: -8808376894041885489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 287
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec0c3d615e5c120800000000000000
+      internalID: 2433603059868290677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d619313590bbfc30800000000000000
+      internalID: 4394300016252491478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064292e4e0999ae0800000000000000
+      internalID: -1542042084669503993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5fad9a2d1d8300800000000000000
+      internalID: 255892822701334197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fac1734dde63cf0800000000000000
+      internalID: -272769231695859836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c3349035e748890800000000000000
+      internalID: -7456696187915912153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalDuckPlayer_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa51bbfcb558e30800000000000000
+      internalID: 4505107950009167857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 33b0c26962b924240af8383bbd6a649d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FinalDuckPlayer_0: 2050562763232986468
+      FinalDuckPlayer_1: -5638437433042390207
+      FinalDuckPlayer_10: -7458914472799532292
+      FinalDuckPlayer_11: -7847304434479419758
+      FinalDuckPlayer_12: -1108715157188353929
+      FinalDuckPlayer_13: 7216041962476798796
+      FinalDuckPlayer_14: -2869292351230408724
+      FinalDuckPlayer_15: -7340241030191262189
+      FinalDuckPlayer_16: -8808376894041885489
+      FinalDuckPlayer_17: 2433603059868290677
+      FinalDuckPlayer_18: -1382330238986749124
+      FinalDuckPlayer_19: -6785537595978009507
+      FinalDuckPlayer_2: -1026408473799667648
+      FinalDuckPlayer_20: -7873539466410971446
+      FinalDuckPlayer_21: -5274285299876575938
+      FinalDuckPlayer_22: 5971773487153388689
+      FinalDuckPlayer_23: -8141276614556487490
+      FinalDuckPlayer_24: -4861876012023810214
+      FinalDuckPlayer_25: 4237757403113657812
+      FinalDuckPlayer_26: -3573689857334337010
+      FinalDuckPlayer_27: 4394300016252491478
+      FinalDuckPlayer_28: -1542042084669503993
+      FinalDuckPlayer_29: 255892822701334197
+      FinalDuckPlayer_3: 6197825388655275163
+      FinalDuckPlayer_30: -8112480163183770576
+      FinalDuckPlayer_31: -4950610580440020745
+      FinalDuckPlayer_32: 6684082012411591463
+      FinalDuckPlayer_33: 5286629608153645811
+      FinalDuckPlayer_34: 4423620497681638087
+      FinalDuckPlayer_35: -5079200980622313654
+      FinalDuckPlayer_36: -2245366061017047789
+      FinalDuckPlayer_37: -1207097949658667951
+      FinalDuckPlayer_38: -4086838831980094757
+      FinalDuckPlayer_39: -272769231695859836
+      FinalDuckPlayer_4: -3002486615694083761
+      FinalDuckPlayer_40: -7456696187915912153
+      FinalDuckPlayer_41: 4505107950009167857
+      FinalDuckPlayer_42: 3731790754826952913
+      FinalDuckPlayer_43: 8524507721124997410
+      FinalDuckPlayer_44: 5878535045206341098
+      FinalDuckPlayer_45: 8197463740015316708
+      FinalDuckPlayer_46: 1368996699890025493
+      FinalDuckPlayer_47: 6348439324679876500
+      FinalDuckPlayer_48: -2437729006116632800
+      FinalDuckPlayer_49: -8610996287098448783
+      FinalDuckPlayer_5: -8796706485160807261
+      FinalDuckPlayer_50: -8328385937866624944
+      FinalDuckPlayer_51: 8918200869704513117
+      FinalDuckPlayer_52: 8126604111694657399
+      FinalDuckPlayer_53: 4808015523952303604
+      FinalDuckPlayer_54: 5015638804866945519
+      FinalDuckPlayer_55: 6593266260159019804
+      FinalDuckPlayer_56: -389430776542137244
+      FinalDuckPlayer_57: -5894689461485521577
+      FinalDuckPlayer_58: 2351508789679978423
+      FinalDuckPlayer_59: -1871144463076585407
+      FinalDuckPlayer_6: -1798682003595037561
+      FinalDuckPlayer_60: 2348930470474689320
+      FinalDuckPlayer_61: 5530794200796303128
+      FinalDuckPlayer_62: -5153607487006808052
+      FinalDuckPlayer_63: 7942908751716029498
+      FinalDuckPlayer_64: -4861380952187586761
+      FinalDuckPlayer_65: 7144108199354227802
+      FinalDuckPlayer_66: 174605435604128310
+      FinalDuckPlayer_67: -6748336668427898686
+      FinalDuckPlayer_68: -344087900310049651
+      FinalDuckPlayer_69: -3588333531851788754
+      FinalDuckPlayer_7: -867499617584315229
+      FinalDuckPlayer_70: -6900959349353077556
+      FinalDuckPlayer_71: -3870257265542593071
+      FinalDuckPlayer_72: 975650582869777091
+      FinalDuckPlayer_73: -7870201003557475916
+      FinalDuckPlayer_74: 2682280154172578524
+      FinalDuckPlayer_75: 6345925572202272918
+      FinalDuckPlayer_76: -2202307188128024241
+      FinalDuckPlayer_77: 8662243307626903478
+      FinalDuckPlayer_78: -5913086938906527050
+      FinalDuckPlayer_79: 2401636883690160505
+      FinalDuckPlayer_8: 3110967368638236874
+      FinalDuckPlayer_80: 5321359304075423564
+      FinalDuckPlayer_81: 4816194287929799567
+      FinalDuckPlayer_82: -2974598041387230492
+      FinalDuckPlayer_83: -2453847941047732073
+      FinalDuckPlayer_84: -68211607969504133
+      FinalDuckPlayer_85: 8799201461382788134
+      FinalDuckPlayer_86: 9187859667815452779
+      FinalDuckPlayer_87: 3583460832305456
+      FinalDuckPlayer_88: -3013675663556810840
+      FinalDuckPlayer_89: -5890432238151602735
+      FinalDuckPlayer_9: 4300858539816845362
+      FinalDuckPlayer_90: -1880721334828206227
+      FinalDuckPlayer_91: -8486245328816859126
+      FinalDuckPlayer_92: 1212859096673318299
+      FinalDuckPlayer_93: -2387729281026036909
+      FinalDuckPlayer_94: 5431049238845742778
+      FinalDuckPlayer_95: 4639825762251561906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
