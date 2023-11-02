@@ -39,7 +39,7 @@ A simple rpg/puzzle-game made with Unity for fun as a birthday present.
     </ul>
 </details>   
 
-## FAQ asked by nobody
+## FAQ
 1. Where are the scripts?
 - There is a "Scripts" folder in FlavianosBirthday > Assets > Scripts
 2. Why there are almost no commits?
