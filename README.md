@@ -1,8 +1,11 @@
 # Flavi's Quest
-![](https://github.com/Francesco-Rapetti/flavis-quest-game/blob/main/Sample.gif)
 
 ## Description
 A simple rpg/puzzle-game made with Unity for fun as a birthday present.
+
+
+![](https://github.com/Francesco-Rapetti/flavis-quest-game/blob/main/Sample.gif)
+
 
 ## WARNINGS
 - Currently available for Android only
