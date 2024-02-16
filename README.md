@@ -2,8 +2,8 @@
 
 ## Description
 A simple rpg/puzzle-game made with Unity for fun as a birthday present.
-The game is divided in six worlds all of which are accessible through a key that is dropped at the end of a level.
-Each world has it's own game theme and you will receive a copy of that game at the end of the level, along with a new key to progress through the game.
+The game is divided in six worlds all of which are accessible through a key that is dropped at the end of every level.
+Each world has it's own game theme and you will receive a real copy (as a Steam key) of that game at the end of the level, along with a new key to progress through the game.
 
 ![](https://github.com/Francesco-Rapetti/flavis-quest-game/blob/main/Sample.gif)
 
